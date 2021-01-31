@@ -464,7 +464,7 @@ p.para-w3ls {
 
 /*-- stats --*/
 .about {   
-	background: url(../images/SayaBackground.jpg) no-repeat 0px 0px;
+	background: url(SayaBackground.jpg) no-repeat 0px 0px;
 	background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
